@@ -1,4 +1,4 @@
-Simple Calculator (Whole Numbers)
+                                               Simple Calculator (Whole Numbers)
 📌 Overview
 This is a simple Python-based calculator designed to perform basic arithmetic operations — addition, subtraction, multiplication, and division — on whole numbers.
 It is beginner-friendly, runs in the terminal, and is a great starting project for learning Python input handling and conditional logic.
